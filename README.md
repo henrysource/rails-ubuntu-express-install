@@ -9,8 +9,11 @@ I will use 12.04 to demostrate
 1. system enviroment
 
 	sudo add-apt-repository ppa:chris-lea/node.js
+
 	sudo apt-get update 
+	
 	sudo apt-get install git core 
+	
 	sudo apt-get install libxml2 libxml2-dev libxslt1-dev nodejs
 
 2.install ruby by using rbenv
