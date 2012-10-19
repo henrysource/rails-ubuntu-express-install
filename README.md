@@ -40,8 +40,7 @@ to install latest version of ruby please check official site
 finally type 
 
 	gem install rails 
-
 	rbenv rehash
 
-there you go
+there you go. enjoy the power of rails :D
 
