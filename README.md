@@ -19,7 +19,7 @@ type
 
 	curl https://raw.github.com/fesplugas/rbenv-installer/master/bin/rbenv-installer | bash	
 
-add this in my youre .bashrc file 
+add this in your .bashrc file 
 
 	export RBENV_ROOT="${HOME}/.rbenv"
 
