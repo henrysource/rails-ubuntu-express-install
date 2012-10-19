@@ -57,4 +57,4 @@ rails-ubuntu-express-install 快速安裝
 
 到這裡就安裝完成了！
 
-接下來你就可以找個地方 rails new [project name] 開始體驗 Ruby on Rails 強大的功能:D
+接下來你就可以找個地方 `rails new [project name]` 開始體驗 Ruby on Rails 強大的功能:D
