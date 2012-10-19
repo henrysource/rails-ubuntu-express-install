@@ -17,7 +17,7 @@ rails-ubuntu-express-install 快速安裝
 ----------------------
 
 在命令列打入
-
+	cd ~
 	curl https://raw.github.com/fesplugas/rbenv-installer/master/bin/rbenv-installer | bash	
 
 將以下這些加到你的`.bashrc`裡 
