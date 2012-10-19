@@ -30,7 +30,7 @@ rails-ubuntu-express-install 快速安裝
 	  eval "$(rbenv init -)"
 	fi
 
-完成後打`source ～.bashrc` 環境設定檔
+完成後打`source ～.bashrc` 重讀環境設定檔
 
 輸入
 
