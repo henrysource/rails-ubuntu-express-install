@@ -10,7 +10,7 @@ rails-ubuntu-express-install 快速安裝
 
 	sudo add-apt-repository ppa:chris-lea/node.js
 	sudo apt-get update 
-	sudo apt-get install git-core libxml2 libxml2-dev libxslt1-dev nodejs sqlite3 libsqlite3-dev
+	sudo apt-get install git-core curl libxml2 libxml2-dev libxslt1-dev nodejs sqlite3 libsqlite3-dev
 
 
 安裝Ruby (使用rubyenv)
